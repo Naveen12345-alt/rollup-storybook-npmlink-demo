@@ -1,4 +1,4 @@
-import "../../styles.css"
+import "../../styles.scss"
 import {Requirement} from "../Requirement"
 import {useCallback, useEffect} from "react"
 
